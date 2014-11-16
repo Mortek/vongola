@@ -1,2 +1,4 @@
 *.log
 wp-config.php
+wp-content/uploads
+wp-content/themes/boldy/cache
